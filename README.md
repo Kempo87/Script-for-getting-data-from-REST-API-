@@ -1,8 +1,8 @@
-Oto opis programu "KALKULATOR WALUT":
+# Opis programu "KALKULATOR WALUT":
 
-Ten program służy do pobierania kursu waluty z danego dnia z Narodowego Banku Polskiego (NBP). Użytkownik może podać nazwę waluty (np. EUR, USD) oraz datę, dla której chce poznać kurs waluty. Program korzysta z API NBP, aby uzyskać kursy walut na podstawie podanych parametrów.
+Program służy do pobierania kursu waluty z danego dnia z Narodowego Banku Polskiego (NBP). Użytkownik może podać nazwę waluty (np. EUR, USD) oraz datę, dla której chce poznać kurs waluty. Program korzysta z API NBP, aby uzyskać kursy walut na podstawie podanych parametrów.
 
-Opis działania programu krok po kroku:
+## Opis działania programu krok po kroku:
 
 Program rozpoczyna się od wyświetlenia komunikatu "KALKULATOR WALUT".
 
@@ -30,4 +30,4 @@ Jeśli parsowanie lub wyodrębnienie kursu nie powiedzie się, program wyświetl
 
 W przeciwnym przypadku program wyświetla informację o kursie waluty w danym dniu oraz wybranej dacie.
 
-Ten program jest przykładem prostego kalkulatora walut, który można dostosować do swoich potrzeb i używać do sprawdzania kursów walut z NBP.
+### Ten program jest przykładem prostego kalkulatora walut, który można dostosować do swoich potrzeb i używać do sprawdzania kursów walut z NBP.
